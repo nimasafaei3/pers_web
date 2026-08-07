@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nima-safaei.com/sitemap.xml
